@@ -27,5 +27,4 @@
 pip install -r requirements.txt
 
 Запустіть програму:
-```bash
 python main.py

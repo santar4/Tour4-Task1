@@ -47,7 +47,7 @@ pip install -r requirements.txt
 
 2. Запустіть проект цією командою у терміналі:
 
-uvicorn main:app --reload
+uvicorn main:app --reload.
 
 
 ## Data Analyzer App
